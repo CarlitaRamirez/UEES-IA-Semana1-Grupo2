@@ -20,7 +20,7 @@ Ejemplos de manipulación de arrays con NumPy, Daaframe con Pandas.
 ### 02_Visualizacion_Datos.ipynb
 Gráficos básicos con Matplotlib, Seaborn y Plotly.
 #### Gráfico Matplotlib
-¡[Gráfico de columnas Distribución del Sépalo](https://raw.githubusercontent.com/CarlitaRamirez/UEES-IA-Semana1-Grupo2/refs/heads/main/images/images%20notebook%202/grafico_columnas_distribucion_sepalo.png)
+![Gráfico de columnas Distribución del Sépalo](https://raw.githubusercontent.com/CarlitaRamirez/UEES-IA-Semana1-Grupo2/refs/heads/main/images/images%20notebook%202/grafico_columnas_distribucion_sepalo.png)
 
 ### 03_Machine_Learning_Basico.ipynb 
 Modelos de clasificación, regresión usando Scikit-learn.
