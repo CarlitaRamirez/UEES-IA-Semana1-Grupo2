@@ -1,6 +1,10 @@
-# UEES-IA-Semana1-Ramirez Carla
+# UEES-IA-Semana1-Grupo 2
 ---
-Desarrollo: Carla Ramirez
+Integrantes: 
+-  Carla Ramirez
+-  Richard Agudo
+-  Richard Laguna
+-  Sofía Sandoval
 ---
 ## Introducción
 En el repositorio se encuentran laboratorios practicos 
@@ -21,7 +25,7 @@ Modelos de clasificación, regresión usando Scikit-learn.
 Modelo de red neuronal con TensorFlow/Keras, visualización del proceso de entrenamiento y evaluación del modelo. 
 
 # Requrimientos 
-# Importaciones estándar de Python para los cuadernos
+## Importaciones estándar de Python para los cuadernos
 - numpy
 - pandas
 - matplotlib
