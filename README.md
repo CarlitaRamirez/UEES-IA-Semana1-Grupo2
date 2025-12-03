@@ -3,7 +3,7 @@
 Integrantes: 
 -  Carla Ramirez
 -  Richard Agudo
--  Richard Laguna
+-  Richarth Laguna
 -  Sofía Sandoval
 ---
 ## Introducción
